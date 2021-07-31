@@ -72,3 +72,5 @@ On the right side are buttons to restart user code, and reboot the roboRIO. Thes
 ![Joysticks Tab](./images/conductor-joysticks.png)
 
 The final tab is the most sparse, and allows users to configure their joystick mappings. The list visible in this tab is drag and drop, and will update the joystick mappings as they are reordered. The first entry in this map is the Virtual Joystick, which can be used to silence WPILib warnings about unplugged joysticks should it be desired. As joysticks are detected by Conductor, they will be added to this list, replacing "Unbound" entries as required.
+
+Build plz
