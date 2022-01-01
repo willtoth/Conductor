@@ -22,7 +22,7 @@ Some artifacts are built and saved automatically by Github Actions. These artifa
 
 * A normal x86_64 Linux executable, compiled on Ubuntu
 * An x86_64 .deb file
-* An x86_64 .rpm file
+* An x86_64 .rpm file 
 * An x86_64 macOS .app file (This is compressed in a tarball to preserve permissions)
 
 If desired, these artifacts can be downloaded and installed rather than having to build the project manually.
