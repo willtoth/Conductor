@@ -8,6 +8,8 @@ Conductor is a Driver Station for FRC robots for Linux and macOS which supports 
 
 # Building
 
+Rebuild
+
 Before building, ensure that you have the following dependencies installed:
 
 - A Rust toolchain (e.g. installed via [Rustup](https://rustup.rs))
